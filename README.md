@@ -18,7 +18,7 @@ Studiuję **inżynierię oprogramowania** i rozwijam się w technologiach związ
 Kompleksowy system klasy Enterprise obsługujący pełny cykl życia przesyłki. To mój główny projekt, w którym zaimplementowałem:
 
 * **Architektura Modularnego Monolitu:** Pełna separacja 7 modułów komunikujących się asynchronicznie poprzez **Spring Events**, co pozwala na łatwą migrację do mikroserwisów.
-* **Zaawansowana Logistyka:** Autorski algorytm wyznaczania tras oparty o **Dijkstrę** na grafie 10 hubów z rozpoznawaniem stref geograficznych (ponad 380 powiatów) przy użyciu **PostGIS**.
+* **Zaawansowana Logistyka:** Algorytm wyznaczania tras oparty o **Dijkstrę** na grafie 10 hubów z rozpoznawaniem stref geograficznych (ponad 380 powiatów) przy użyciu **PostGIS**.
 * **Automatyzacja & Procesy:** * Generowanie etykiet PDF z kodami QR i pełny flow powiadomień mailowych.
     * System automatycznego przypisywania kurierów strefowych do odbioru i doręczenia.
     * Geokodowanie adresów z wykorzystaniem **Nominatim**.
