@@ -6,8 +6,8 @@ Studiuję **inżynierię oprogramowania** i rozwijam się w technologiach związ
 
 ## 🔧 Stack Techniczny
 
-- **Backend:** Java 21, Spring Boot 3.x (Security, Data JPA, Mail, Retry)
-- **Bazy Danych:** PostgreSQL (PostGIS), Hibernate, MinIO (S3), SQL, Flyway
+- **Backend:** Java 21, Spring Boot 4.x, Spring Security, Spring Data JPA, Spring Mail, Spring Retry
+- **Bazy Danych:** PostgreSQL, PostGIS, Hibernate, Flyway, MinIO (S3), SQL
 - **Narzędzia & DevOps:** Docker, Git, Maven, Postman, MapStruct, Lombok
 
 ---
